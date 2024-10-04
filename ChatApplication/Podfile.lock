@@ -1,0 +1,84 @@
+PODS:
+  - ActiveLabel (1.1.0)
+  - BSImagePicker (3.3.3)
+  - Cache (6.0.0)
+  - GrowingTextView (0.7.2)
+  - Imaginary (5.0.0):
+    - Cache (~> 6.0.0)
+  - IQKeyboardManagerSwift (7.1.1)
+  - Lightbox (2.5.0):
+    - Imaginary (~> 5.0.0)
+  - MBProgressHUD (1.2.0)
+  - ObjectMapper (3.5.3)
+  - ObjectMapperAdditions/Core (13.1.0):
+    - ObjectMapper
+    - RoutableLogger (>= 12.0)
+  - ObjectMapperAdditions/Realm (13.1.0):
+    - ObjectMapper
+    - ObjectMapperAdditions/Core
+    - RealmSwift
+    - RoutableLogger (>= 12.0)
+  - Realm (20.0.0):
+    - Realm/Headers (= 20.0.0)
+  - Realm/Headers (20.0.0)
+  - RealmSwift (20.0.0):
+    - Realm (= 20.0.0)
+  - RoutableLogger (12.4.0)
+  - SDWebImage (5.19.7):
+    - SDWebImage/Core (= 5.19.7)
+  - SDWebImage/Core (5.19.7)
+  - ZLImageEditor (2.0.3):
+    - ZLImageEditor/Core (= 2.0.3)
+  - ZLImageEditor/Core (2.0.3)
+
+DEPENDENCIES:
+  - ActiveLabel
+  - BSImagePicker (~> 3.1)
+  - GrowingTextView (= 0.7.2)
+  - IQKeyboardManagerSwift
+  - Lightbox
+  - MBProgressHUD
+  - ObjectMapper (~> 3.5)
+  - ObjectMapperAdditions/Realm
+  - RealmSwift
+  - SDWebImage
+  - ZLImageEditor
+
+SPEC REPOS:
+  trunk:
+    - ActiveLabel
+    - BSImagePicker
+    - Cache
+    - GrowingTextView
+    - Imaginary
+    - IQKeyboardManagerSwift
+    - Lightbox
+    - MBProgressHUD
+    - ObjectMapper
+    - ObjectMapperAdditions
+    - Realm
+    - RealmSwift
+    - RoutableLogger
+    - SDWebImage
+    - ZLImageEditor
+
+SPEC CHECKSUMS:
+  ActiveLabel: 5e3f4de79a1952d4604b845a0610d4776e4b82b3
+  BSImagePicker: 57900b323f951711608acaf97d52e9183530cb6d
+  Cache: 4ca7e00363fca5455f26534e5607634c820ffc2d
+  GrowingTextView: 876bf42005b5e4a4fd740597db12caaf41f0fe6c
+  Imaginary: cf5e3a7dd6ab1dcbd47ba8ce5edf2307c4e99eb3
+  IQKeyboardManagerSwift: d7f3d3a562c237a0e7335e657cd598c452f57f1b
+  Lightbox: cc3d5124f024fa8197fd23f913160db1c61a1852
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  ObjectMapperAdditions: c8945119ecd970f6ea450aedf4db7a0b6953d916
+  Realm: a799b5f9145623fb0bfe149fe81422863631dd0f
+  RealmSwift: f8c4354ebd5053343e6ab9f4eda244145308a51e
+  RoutableLogger: 5c0d14daf01b023d1506e5a426b53418daac3f8b
+  SDWebImage: 8a6b7b160b4d710e2a22b6900e25301075c34cb3
+  ZLImageEditor: 56ca892136c1c2d9a4e5ad6c4b961259a5219bef
+
+PODFILE CHECKSUM: f93f77a4d4dd8376b1cee266edd8eab0e6350275
+
+COCOAPODS: 1.15.2
